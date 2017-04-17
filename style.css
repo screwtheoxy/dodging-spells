@@ -8,3 +8,10 @@
 	width: 8%;
 	margin-top: 525px;
 }
+#box2{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    margin-left: 200px;
+    position: absolute;
+}
